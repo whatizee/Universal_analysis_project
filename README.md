@@ -103,4 +103,3 @@ This repository contains a Flask web application for universal analysis, which i
   - General information about the project and its purpose.
 
 Feel free to contribute to the project by opening issues or submitting pull requests!
-```
